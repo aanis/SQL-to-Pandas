@@ -1,4 +1,4 @@
-# Introduction
+# SQL-to-Pandas
 
 Convert SQL Queries into Pandas
 
