@@ -1,6 +1,6 @@
 # Introduction
 
-SQL is popular database language used to query massive datasets. Now you can do the same in Python.
+Convert SQL Queries into Pandas
 
 ## SELECT
 
